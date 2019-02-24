@@ -1,7 +1,7 @@
-![alt text](https://github.com/Architecttheday/njmonDashboards/tree/master/Linux_Quick_Overview_with_Rows/Screen1.jpeg)
+![Everything rolled up](https://raw.githubusercontent.com/Architecttheday/njmonDashboards/master/Linux_Quick_Overview_with_Rows/Screen1.jpeg)
 
-![alt text](https://github.com/Architecttheday/njmonDashboards/tree/master/Linux_Quick_Overview_with_Rows/Screen2.jpeg)
+![Overview and CPU](https://raw.githubusercontent.com/Architecttheday/njmonDashboards/master/Linux_Quick_Overview_with_Rows/Screen2.jpeg)
 
-![alt text](https://github.com/Architecttheday/njmonDashboards/tree/master/Linux_Quick_Overview_with_Rows/Screen3.jpeg)
+![Memory and Netword](https://raw.githubusercontent.com/Architecttheday/njmonDashboards/master/Linux_Quick_Overview_with_Rows/Screen3.jpeg)
 
-![alt text](https://github.com/Architecttheday/njmonDashboards/tree/master/Linux_Quick_Overview_with_Rows/Screen4.jpeg)
+![Disk](https://raw.githubusercontent.com/Architecttheday/njmonDashboards/master/Linux_Quick_Overview_with_Rows/Screen4.jpeg)
