@@ -3,6 +3,18 @@
 * Influxdb version 1.6.0<br>
 * Plugins: Standard only<br>
 
+## Includes
+* Basic Ssystem information
+* CPU graphs
+* Memory graphs
+* Network throughput and packets
+* Disk throughput an IOPS
+* Filesystem size and disk free information
+
+## Special Plugins
+* None
+
+
 ![Everything rolled up](https://raw.githubusercontent.com/Architecttheday/njmonDashboards/master/Linux_Quick_Overview_with_Rows/Screen1.jpeg)
 
 ![Overview and CPU](https://raw.githubusercontent.com/Architecttheday/njmonDashboards/master/Linux_Quick_Overview_with_Rows/Screen2.jpeg)
