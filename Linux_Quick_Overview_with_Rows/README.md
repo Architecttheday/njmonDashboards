@@ -4,7 +4,7 @@
 * Plugins: Standard only<br>
 
 ## Includes
-* Basic Ssystem information
+* Basic system information
 * CPU graphs
 * Memory graphs
 * Network throughput and packets
