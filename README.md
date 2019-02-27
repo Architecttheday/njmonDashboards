@@ -9,4 +9,4 @@ If you decide to
 * Store the data in influxdb
 * Visualize the data with Grafana
 
-Then you can find here some nice dashbords to visualize tha data.
+Then you can find here some nice dashbords to visualize the data.

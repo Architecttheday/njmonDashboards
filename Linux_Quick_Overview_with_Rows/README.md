@@ -1,3 +1,8 @@
+Tested with:
+Grafana v5.2.2 (aeaf7b2)
+Influxdb version 1.6.0
+Plugins: Standard only
+
 ![Everything rolled up](https://raw.githubusercontent.com/Architecttheday/njmonDashboards/master/Linux_Quick_Overview_with_Rows/Screen1.jpeg)
 
 ![Overview and CPU](https://raw.githubusercontent.com/Architecttheday/njmonDashboards/master/Linux_Quick_Overview_with_Rows/Screen2.jpeg)
