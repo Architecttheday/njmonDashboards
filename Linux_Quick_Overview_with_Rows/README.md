@@ -1,7 +1,7 @@
-Tested with:<br>
-Grafana v5.2.2 (aeaf7b2)<br>
-Influxdb version 1.6.0<br>
-Plugins: Standard only<br>
+## Tested with:
+* Grafana v5.2.2 (aeaf7b2)<br>
+* Influxdb version 1.6.0<br>
+* Plugins: Standard only<br>
 
 ![Everything rolled up](https://raw.githubusercontent.com/Architecttheday/njmonDashboards/master/Linux_Quick_Overview_with_Rows/Screen1.jpeg)
 
