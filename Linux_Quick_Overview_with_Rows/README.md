@@ -2,6 +2,7 @@
 * Grafana v5.2.2 (aeaf7b2)<br>
 * Influxdb version 1.6.0<br>
 * Plugins: Standard only<br>
+* njmon v18
 
 ## Includes
 * Basic system information
