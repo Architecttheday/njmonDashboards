@@ -16,7 +16,7 @@
   "gnetId": null,
   "graphTooltip": 0,
   "id": 14,
-  "iteration": 1551735687719,
+  "iteration": 1552074660395,
   "links": [],
   "panels": [
     {
@@ -1237,7 +1237,7 @@
               },
               {
                 "params": [
-                  "/1000000"
+                  "/1048576"
                 ],
                 "type": "math"
               },
@@ -1394,7 +1394,7 @@
       "yaxes": [
         {
           "format": "short",
-          "label": null,
+          "label": "GB",
           "logBase": 1,
           "max": null,
           "min": null,
@@ -1610,7 +1610,7 @@
               },
               {
                 "params": [
-                  " / 1000000"
+                  " / 1048576"
                 ],
                 "type": "math"
               },
@@ -1694,7 +1694,7 @@
       "yaxes": [
         {
           "format": "short",
-          "label": null,
+          "label": "MBit/s",
           "logBase": 1,
           "max": null,
           "min": null,
@@ -1908,6 +1908,12 @@
               },
               {
                 "params": [
+                  " / 1024"
+                ],
+                "type": "math"
+              },
+              {
+                "params": [
                   "reads kb"
                 ],
                 "type": "alias"
@@ -1926,7 +1932,7 @@
               },
               {
                 "params": [
-                  " / -1"
+                  " / -1024"
                 ],
                 "type": "math"
               },
@@ -1961,7 +1967,7 @@
       "yaxes": [
         {
           "format": "short",
-          "label": null,
+          "label": "MB/s",
           "logBase": 1,
           "max": null,
           "min": null,
@@ -1982,7 +1988,7 @@
       }
     }
   ],
-  "refresh": false,
+  "refresh": "1m",
   "schemaVersion": 16,
   "style": "dark",
   "tags": [],
@@ -1994,7 +2000,7 @@
           {
             "key": "host",
             "operator": "=",
-            "value": "linacer"
+            "value": "mynextcl"
           }
         ],
         "hide": 1,
@@ -2005,8 +2011,8 @@
     ]
   },
   "time": {
-    "from": "2019-03-04T16:59:54.100Z",
-    "to": "2019-03-04T20:03:27.877Z"
+    "from": "now-1h",
+    "to": "now"
   },
   "timepicker": {
     "refresh_intervals": [
@@ -2036,5 +2042,5 @@
   "timezone": "",
   "title": "Quick View",
   "uid": "AThD3SCik",
-  "version": 9
+  "version": 12
 }
